@@ -3,3 +3,39 @@
   margin: 0;
   padding: 0;
 }
+
+div {
+  padding: 10px;
+}
+
+h1 {
+  color: #2617C8;
+  margin: 10px 0;
+}
+
+p {
+  color: #2617C8;
+  margin: 10px 0;
+}
+
+button {
+  color: #2617C8;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #2617C8;
+}
+
+h2 {
+  color: #8D86D6;
+  margin: 10px 0;
+}
+
+span {
+  color: #8D86D6;
+  margin: 10px 0;
+}
+
+input {
+  border: 1px solid #8D86D6;
+  padding: 10px;
+}

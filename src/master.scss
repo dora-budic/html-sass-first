@@ -3,3 +3,44 @@
   margin: 0;
   padding: 0;
 }
+
+$darkBlue: #2617C8;
+$lightBlue: #8D86D6;
+$text-margin-tb: 10px 0;
+$p-10: 10px;
+
+div {
+  padding: $p-10;
+}
+
+h1 {
+  color: $darkBlue;
+  margin: $text-margin-tb;
+}
+
+p {
+  color: $darkBlue;
+  margin: $text-margin-tb;
+}
+
+button {
+  color: $darkBlue;
+  margin: $text-margin-tb;
+  padding: $p-10;
+  border: 1px solid $darkBlue;
+}
+
+h2 {
+  color: $lightBlue;
+  margin: $text-margin-tb;
+}
+
+span {
+  color: $lightBlue;
+  margin: $text-margin-tb;
+}
+
+input {
+  border: 1px solid $lightBlue;
+  padding: $p-10;
+}
